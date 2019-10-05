@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29215.179
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MVCepam.Web", "MVCepam.Web.csproj", "{06CC6141-D847-437A-B821-14A6B22D92A9}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MVCepam.Domain", "..\MVCepam.Domain\MVCepam.Domain.csproj", "{51241191-E1DA-4175-81C5-400F9D0D7D79}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MVCepam.Web", "..\MVCepam.Web\MVCepam.Web.csproj", "{B7723989-ADDA-49FE-9F1C-8BE17BE63B83}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -13,14 +13,14 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{06CC6141-D847-437A-B821-14A6B22D92A9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{06CC6141-D847-437A-B821-14A6B22D92A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{06CC6141-D847-437A-B821-14A6B22D92A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{06CC6141-D847-437A-B821-14A6B22D92A9}.Release|Any CPU.Build.0 = Release|Any CPU
 		{51241191-E1DA-4175-81C5-400F9D0D7D79}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{51241191-E1DA-4175-81C5-400F9D0D7D79}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{51241191-E1DA-4175-81C5-400F9D0D7D79}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{51241191-E1DA-4175-81C5-400F9D0D7D79}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B7723989-ADDA-49FE-9F1C-8BE17BE63B83}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B7723989-ADDA-49FE-9F1C-8BE17BE63B83}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B7723989-ADDA-49FE-9F1C-8BE17BE63B83}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B7723989-ADDA-49FE-9F1C-8BE17BE63B83}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
